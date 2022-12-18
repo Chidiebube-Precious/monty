@@ -39,8 +39,8 @@ void f_add(stack_t **head, unsigned int counter)
  * @counter: line count
  *
  * Return: nothing
- */      
- void f_sub(stack_t **head, unsigned int counter)
+ */
+void f_sub(stack_t **head, unsigned int counter)
 {
 	stack_t *temp;
 	int sub, nd;
